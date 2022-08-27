@@ -18,28 +18,27 @@ Este proyecto permite generar desde la consola en formato de archivo de texto la
 
 
 ------------
- una vez clonado el repositorio instalaremos las dependencias necesarias con el siguiente comando:
+una vez clonado el repositorio instalaremos las dependencias necesarias con el siguiente comando:
  
  
 
     $ npm install
  
  
- Una vez instaladas las dependencias podemos ejecutar la aplicacion con el comando:
+Una vez instaladas las dependencias podemos ejecutar la aplicacion con el comando:
  
  
  
 
     $ node app -b 5 -l 10 -o
  
- Donde los parametros o banderas se usan de la siguiente manera:
- 
- -b: Es la base de multiplicacion
- -l: Es el limite para generar la tabla
- -o: Muestra en consola el resultado de la tabla [opcional]
- 
- ###Resultados
- 
+Donde los parametros o banderas se usan de la siguiente manera:
+
+-b: Es la base de multiplicacion
+-l: Es el limite para generar la tabla
+-o: Muestra en consola el resultado de la tabla [opcional]
+
+###Resultados
 
 ------------
 
