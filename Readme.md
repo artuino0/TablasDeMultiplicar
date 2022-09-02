@@ -6,7 +6,7 @@
 
 # Tablas de multiplicar con NodeJS
 
-[![Logo](https://myawesomeportafolio.web.app/src/4x/logo.png "Logo")](https://myawesomeportafolio.web.app/src/4x/logo.png "Logo")
+![](https://myawesomeportafolio.web.app/src/4x/logo-180x180.png)
 
 
 ------------
